@@ -1,0 +1,5 @@
+if game.PlaceId == 142823291 then
+     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Enviie/Cypher-X-Anti-Logger-MM2-and-KAT/main/Cypher%20X%20Encode%20Audio%20MM2"))("Enviie Soo Hot!")
+elseif game.PlaceId == 621129760 then
+     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Enviie/Cypher-X-Anti-Logger-MM2-and-KAT/main/Cypher%20X%20Encode%20Audio%20KAT"))("Enviie Soo Hot!")
+end
